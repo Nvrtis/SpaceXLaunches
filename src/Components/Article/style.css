@@ -1,0 +1,28 @@
+.App-Body {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.intro {
+  background: white;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 5px 10px 5px black;
+  width: 50%;
+  background: url(https://www.pngitem.com/pimgs/m/50-507762_clouds-png-photo-clouds-with-no-background-transparent.png);
+}
+
+@media only screen and (max-width: 600px) {
+  .App-Body {
+    display: block;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  .intro {
+    width: 97%;
+  }
+}

@@ -1,0 +1,29 @@
+.App {
+  font-family: system-ui;
+  text-align: center;
+  color: black;
+  font-weight: bolder;
+}
+
+body {
+  background: url(https://wallpaperaccess.com/full/2599387.jpg);
+}
+
+h1 {
+  font-family: "Audiowide", cursive;
+  font-size: 36px;
+}
+
+h2 {
+  font-family: "Audiowide", cursive;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: "Audiowide", cursive;
+  font-size: 26px;
+}
+
+.spacer {
+  height: 100px;
+}

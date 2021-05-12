@@ -1,0 +1,11 @@
+.App-Header {
+  background: url(http://assets.stickpng.com/thumbs/585f94d0cb11b227491c3587.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 180px;
+  margin: 10px;
+  padding: 10px;
+  color: black;
+  text-shadow: 0 0 3px yellow, 0 0 5px red;
+  width: 100%;
+}
